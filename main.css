@@ -1,0 +1,46 @@
+.weblay div {
+  padding: 25px;
+  text-align: center;
+  margin: 15px 0;
+}
+
+.nav {
+  background-color: coral;
+  position: sticky;
+  top: 0;
+}
+
+.Menu {
+  background-color: cornflowerblue;
+  float: left;
+  width: auto;
+  height: 200px;
+  min-width: 200px;
+  margin-right: 15px;
+}
+
+.content {
+  background-color: darksalmon;
+  margin: 0px 15px;
+  float: left;
+  width: auto;
+  height: 200px;
+  min-width: 200px;
+}
+
+.side {
+  background-color: dimgray;
+
+  float: left;
+  width: auto;
+  height: 200px;
+  min-width: 200px;
+}
+
+.foot {
+  clear: left;
+  background-color: rgb(209, 70, 70);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
