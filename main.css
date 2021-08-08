@@ -4,6 +4,10 @@
   margin: 15px 0;
 }
 
+.weblay h1 {
+  text-align: center;
+}
+
 .nav {
   background-color: coral;
   position: sticky;
